@@ -31,12 +31,23 @@
     <sprites name="Doors">
       <sprite>sprites\Door</sprite>
     </sprites>
+    <sprites name="Menu">
+      <sprite>sprites\start_button</sprite>
+      <sprite>sprites\exit_button</sprite>
+      <sprite>sprites\button</sprite>
+      <sprite>sprites\about_button</sprite>
+      <sprite>sprites\border_menu</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
+  <scripts name="scripts">
+    <script>scripts\src_exit_game.gml</script>
+    <script>scripts\src_start_game.gml</script>
+    <script>scripts\src_start_about.gml</script>
+  </scripts>
   <objects name="objects">
     <objects name="Walls">
       <objects name="Wals_Bounce">
@@ -60,10 +71,19 @@
     <object>objects\Door_Next_Level</object>
     <object>objects\Draw_Hp_Health</object>
     <object>objects\draw</object>
+    <objects name="Menu">
+      <object>objects\obj</object>
+      <object>objects\obj_start_button</object>
+      <object>objects\obj_exit_button</object>
+      <object>objects\obj_about_button</object>
+      <object>objects\obj_menu_border</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
-    <room>rooms\room1</room>
+    <room>rooms\rm_menu</room>
+    <room>rooms\rm_game</room>
+    <room>rooms\rm_about</room>
+    <room>rooms\rm_level_selector</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
