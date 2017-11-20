@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\Main_Loop</sound>
+  </sounds>
   <sprites name="sprites">
     <sprites name="Night Sprites ">
       <sprite>sprites\Night_Right_</sprite>
