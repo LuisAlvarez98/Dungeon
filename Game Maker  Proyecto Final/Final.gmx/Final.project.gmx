@@ -40,10 +40,9 @@
       <sprite>sprites\about_button</sprite>
       <sprite>sprites\border_menu</sprite>
     </sprites>
+    <sprite>sprites\sprite20</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\background0</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\src_exit_game.gml</script>
