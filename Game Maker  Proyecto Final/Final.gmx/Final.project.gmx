@@ -42,6 +42,7 @@
     </sprites>
     <sprite>sprites\sprite20</sprite>
     <sprite>sprites\sprite21</sprite>
+    <sprite>sprites\How_to</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\How_to_play_</background>
