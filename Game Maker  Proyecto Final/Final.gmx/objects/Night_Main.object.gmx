@@ -53,7 +53,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>50</string>
           </argument>
         </arguments>
       </action>
@@ -74,6 +74,27 @@
           <argument>
             <kind>0</kind>
             <string>100</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>draw_set_color(c_white);
+</string>
           </argument>
         </arguments>
       </action>
@@ -835,15 +856,15 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>300</string>
+            <string>350</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>25</string>
+            <string>35</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>20</string>
+            <string>30</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -856,6 +877,94 @@
           <argument>
             <kind>4</kind>
             <string>7</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>501</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_sprite</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>5</kind>
+            <sprite>Fire_Ball_Iteem</sprite>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>150</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>60</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>703</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_score</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>30</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>50</string>
+          </argument>
+          <argument>
+            <kind>1</kind>
+            <string>Score: </string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>613</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_draw_variable</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>count</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>160</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>50</string>
           </argument>
         </arguments>
       </action>
