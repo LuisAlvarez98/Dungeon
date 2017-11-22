@@ -261,11 +261,9 @@
     <instance objName="Wall_32X32_Obj" x="960" y="224" name="inst_A6BF0041" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="896" y="416" name="inst_5009A4FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Fire_Ball_Item" x="718" y="84" name="inst_A087B132" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Fire_Ball_Item" x="864" y="288" name="inst_212F7550" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1888" y="480" name="inst_2A248823" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1888" y="512" name="inst_5261E655" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1376" y="32" name="inst_F9115CA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Door_Next_Level" x="1440" y="32" name="inst_72F9B4DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1472" y="32" name="inst_503642C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1344" y="32" name="inst_467E0D60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1600" y="32" name="inst_B7AF354D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -591,8 +589,6 @@
     <instance objName="Wall_32X32_Obj" x="1472" y="128" name="inst_77E26130" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Bounce_UP" x="192" y="0" name="inst_E60AEF3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Bounce_UP" x="224" y="0" name="inst_EC51B772" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wall_Bounce_UP" x="832" y="32" name="inst_7660B7B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wall_Bounce_UP" x="864" y="32" name="inst_3E0EE9A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Bounce_UP" x="1568" y="736" name="inst_74BC4188" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Bounce_UP" x="1760" y="64" name="inst_29A4F745" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Bounce_UP" x="1312" y="64" name="inst_19DE5F0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -610,8 +606,6 @@
     <instance objName="Enemy_Demon_Vert" x="48" y="210" name="inst_7E332797" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Enemy_Demon_Vert" x="209" y="400" name="inst_AFA5D1ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Enemy_Demon_Vert" x="208" y="49" name="inst_72FD7DBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Enemy_Demon_Vert" x="848" y="86" name="inst_FF682F6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Enemy_Demon_Vert" x="880" y="440" name="inst_A1F3BEDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Enemy_Demon_Vert" x="1328" y="176" name="inst_A4E8F08C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Enemy_Demon_Vert" x="1456" y="657" name="inst_7B3FC24C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Enemy_Demon_Vert" x="1584" y="816" name="inst_2590D818" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -683,6 +677,14 @@
     <instance objName="Fire_Ball_Item" x="1620" y="664" name="inst_90145E52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Fire_Ball_Item" x="1808" y="232" name="inst_1AFB23C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Fire_Ball_Item" x="1323" y="385" name="inst_F8759537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="1440" y="32" name="inst_69B7B415" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="1408" y="32" name="inst_9E0E5845" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="1408" y="0" name="inst_FF7471E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="1440" y="0" name="inst_32907F40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Door_Next_Level" x="864" y="288" name="inst_8B0155F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="kEY___OBJ" x="224" y="288" name="inst_CA9CA865" locked="0" code="" scaleX="0.0935672521591187" scaleY="0.056640625" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="832" y="864" name="inst_4CA85021" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="864" y="864" name="inst_D2A397AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="&lt;undefined&gt;" x="256" y="224" w="16" h="16" xo="112" yo="96" id="10000007" name="inst_03E6E790" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

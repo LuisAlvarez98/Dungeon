@@ -43,6 +43,8 @@
     <sprite>sprites\sprite20</sprite>
     <sprite>sprites\sprite21</sprite>
     <sprite>sprites\How_to</sprite>
+    <sprite>sprites\Flecha</sprite>
+    <sprite>sprites\Key</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\How_to_play_</background>
@@ -84,6 +86,8 @@
       <object>objects\obj_about_button</object>
       <object>objects\obj_menu_border</object>
     </objects>
+    <object>objects\Back_Button</object>
+    <object>objects\kEY___OBJ</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menu</room>
