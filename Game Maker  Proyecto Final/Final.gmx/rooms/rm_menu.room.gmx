@@ -51,10 +51,12 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_start_button" x="515" y="384" name="inst_D4B96961" locked="0" code="" scaleX="0.34375" scaleY="0.21875" colour="4294967295" rotation="0"/>
-    <instance objName="obj_about_button" x="514" y="480" name="inst_5BAEE910" locked="0" code="" scaleX="0.340000003576279" scaleY="0.219999998807907" colour="4294967295" rotation="0"/>
-    <instance objName="obj_exit_button" x="515" y="576" name="inst_14C6AE07" locked="0" code="" scaleX="0.340000003576279" scaleY="0.219999998807907" colour="4294967295" rotation="0"/>
-    <instance objName="obj_menu_border" x="510" y="384" name="inst_E13398A0" locked="0" code="" scaleX="1.009765625" scaleY="0.75" colour="4294967295" rotation="0"/>
+    <instance objName="obj_start_button" x="506" y="320" name="inst_D4B96961" locked="0" code="" scaleX="0.34375" scaleY="0.21875" colour="4294967295" rotation="0"/>
+    <instance objName="obj_about_button" x="509" y="512" name="inst_5BAEE910" locked="0" code="" scaleX="0.340000003576279" scaleY="0.219999998807907" colour="4294967295" rotation="0"/>
+    <instance objName="obj_exit_button" x="508" y="608" name="inst_14C6AE07" locked="0" code="" scaleX="0.340000003576279" scaleY="0.219999998807907" colour="4294967295" rotation="0"/>
+    <instance objName="obj_menu_border" x="508" y="384" name="inst_E13398A0" locked="0" code="" scaleX="1.009765625" scaleY="0.75" colour="4294967295" rotation="0"/>
+    <instance objName="obj_logo" x="500" y="160" name="inst_FB045CD1" locked="0" code="" scaleX="0.669599235057831" scaleY="0.419999986886978" colour="4294967295" rotation="0"/>
+    <instance objName="obj_how_to" x="508" y="416" name="inst_FBD72E57" locked="0" code="" scaleX="0.319688111543655" scaleY="0.288780480623245" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

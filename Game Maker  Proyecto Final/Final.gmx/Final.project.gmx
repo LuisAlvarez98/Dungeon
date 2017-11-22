@@ -39,22 +39,23 @@
       <sprite>sprites\button</sprite>
       <sprite>sprites\about_button</sprite>
       <sprite>sprites\border_menu</sprite>
+      <sprite>sprites\Logo</sprite>
+      <sprite>sprites\How_to</sprite>
+      <sprite>sprites\how_to_screen</sprite>
+      <sprite>sprites\about_screen</sprite>
     </sprites>
     <sprite>sprites\sprite20</sprite>
     <sprite>sprites\sprite21</sprite>
-    <sprite>sprites\How_to</sprite>
     <sprite>sprites\Flecha</sprite>
     <sprite>sprites\Key</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\How_to_play_</background>
-    <background>background\About_</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\src_exit_game.gml</script>
     <script>scripts\src_start_game.gml</script>
     <script>scripts\src_start_about.gml</script>
+    <script>scripts\src_start_how.gml</script>
   </scripts>
   <objects name="objects">
     <objects name="Walls">
@@ -85,6 +86,10 @@
       <object>objects\obj_exit_button</object>
       <object>objects\obj_about_button</object>
       <object>objects\obj_menu_border</object>
+      <object>objects\obj_logo</object>
+      <object>objects\obj_how_to</object>
+      <object>objects\obj_how_to_screen</object>
+      <object>objects\obj_about_screen</object>
     </objects>
     <object>objects\Back_Button</object>
     <object>objects\kEY___OBJ</object>
@@ -94,6 +99,7 @@
     <room>rooms\rm_game</room>
     <room>rooms\rm_about</room>
     <room>rooms\rm_level_selector</room>
+    <room>rooms\rm_how_to</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
