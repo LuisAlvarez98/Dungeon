@@ -51,8 +51,15 @@
     <sprite>sprites\sprite21</sprite>
     <sprite>sprites\Flecha</sprite>
     <sprite>sprites\Key</sprite>
+    <sprite>sprites\sprite32</sprite>
+    <sprites name="DungeonTiles">
+      <sprite>sprites\sprite34</sprite>
+      <sprite>sprites\wall</sprite>
+    </sprites>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background2</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\src_exit_game.gml</script>
@@ -60,6 +67,7 @@
     <script>scripts\src_start_about.gml</script>
     <script>scripts\src_start_how.gml</script>
     <script>scripts\src_selector_game.gml</script>
+    <script>scripts\script5.gml</script>
   </scripts>
   <objects name="objects">
     <objects name="Walls">
@@ -107,6 +115,7 @@
     <room>rooms\rm_about</room>
     <room>rooms\rm_level_selector</room>
     <room>rooms\rm_how_to</room>
+    <room>rooms\rm_easy_map</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
