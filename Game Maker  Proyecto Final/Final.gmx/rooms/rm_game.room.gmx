@@ -568,8 +568,8 @@
     <instance objName="Fire_Ball_Item" x="1323" y="385" name="inst_F8759537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1440" y="32" name="inst_69B7B415" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1408" y="32" name="inst_9E0E5845" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Door_Next_Level" x="864" y="288" name="inst_8B0155F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="kEY___OBJ" x="224" y="288" name="inst_CA9CA865" locked="0" code="" scaleX="0.0935672521591187" scaleY="0.056640625" colour="4294967295" rotation="0"/>
+    <instance objName="Door_Next_Level" x="896" y="32" name="inst_8B0155F0" locked="0" code="" scaleX="0.15625" scaleY="0.140625" colour="4294967295" rotation="0"/>
+    <instance objName="kEY___OBJ" x="345" y="224" name="inst_CA9CA865" locked="0" code="" scaleX="0.0545808970928192" scaleY="0.0458984375" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="832" y="864" name="inst_4CA85021" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="864" y="864" name="inst_D2A397AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="64" y="0" name="inst_743BCE9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -595,8 +595,8 @@
     <instance objName="Wall_32X32_Obj" x="640" y="0" name="inst_B1AA6150" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="672" y="0" name="inst_A7802A31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="832" y="0" name="inst_57D7F99F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wall_32X32_Obj" x="864" y="0" name="inst_D7947830" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wall_32X32_Obj" x="896" y="0" name="inst_FDC80263" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="832" y="-32" name="inst_D7947830" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="928" y="-32" name="inst_FDC80263" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="928" y="0" name="inst_41B303E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="960" y="0" name="inst_E805B487" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="1888" y="512" name="inst_DC9DC9B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -787,6 +787,9 @@
     <instance objName="Wall_32X32_Obj" x="1888" y="992" name="inst_1485F0E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="192" y="0" name="inst_B62055E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_32X32_Obj" x="224" y="0" name="inst_04B6E849" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="864" y="-32" name="inst_B157248E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="896" y="-32" name="inst_46A447C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wall_32X32_Obj" x="832" y="32" name="inst_9EBC73BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="&lt;undefined&gt;" x="256" y="224" w="16" h="16" xo="112" yo="96" id="10000007" name="inst_03E6E790" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

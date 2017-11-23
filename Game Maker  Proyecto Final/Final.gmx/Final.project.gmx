@@ -56,6 +56,8 @@
       <sprite>sprites\sprite34</sprite>
       <sprite>sprites\wall</sprite>
     </sprites>
+    <sprite>sprites\sprite37</sprite>
+    <sprite>sprites\Door_Dungeo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -116,6 +118,7 @@
     <room>rooms\rm_level_selector</room>
     <room>rooms\rm_how_to</room>
     <room>rooms\rm_easy_map</room>
+    <room>rooms\room6</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
