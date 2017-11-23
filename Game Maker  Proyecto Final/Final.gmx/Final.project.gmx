@@ -46,6 +46,7 @@
       <sprite>sprites\easy_button</sprite>
       <sprite>sprites\med_button</sprite>
       <sprite>sprites\epic_button</sprite>
+      <sprite>sprites\sound_on</sprite>
     </sprites>
     <sprite>sprites\sprite20</sprite>
     <sprite>sprites\sprite21</sprite>
@@ -110,6 +111,7 @@
     </objects>
     <object>objects\Back_Button</object>
     <object>objects\kEY___OBJ</object>
+    <object>objects\obj_sound_on</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menu</room>

@@ -57,6 +57,7 @@
     <instance objName="obj_menu_border" x="508" y="384" name="inst_E13398A0" locked="0" code="" scaleX="1.009765625" scaleY="0.75" colour="4294967295" rotation="0"/>
     <instance objName="obj_logo" x="500" y="160" name="inst_FB045CD1" locked="0" code="" scaleX="0.669599235057831" scaleY="0.419999986886978" colour="4294967295" rotation="0"/>
     <instance objName="obj_how_to" x="508" y="416" name="inst_FBD72E57" locked="0" code="" scaleX="0.319688111543655" scaleY="0.288780480623245" colour="4294967295" rotation="0"/>
+    <instance objName="obj_sound_on" x="912" y="80" name="inst_9CC22CBB" locked="0" code="" scaleX="0.910000026226044" scaleY="0.75" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
