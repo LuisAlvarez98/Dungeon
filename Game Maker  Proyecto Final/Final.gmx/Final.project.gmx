@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\Main_Loop</sound>
+    <sound>sound\sound1</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Night Sprites ">
@@ -87,7 +88,11 @@
     </objects>
     <objects name="Enemys">
       <object>objects\Enemy_Demon_Horr</object>
+      <object>objects\Enemy_Medium_Horr</object>
+      <object>objects\Enemy_Epic_Horr</object>
       <object>objects\Enemy_Demon_Vert</object>
+      <object>objects\Enemy_Medium_Vert</object>
+      <object>objects\Enemy_Epic_Vert</object>
     </objects>
     <object>objects\Fire_Ball_Obj</object>
     <object>objects\Night_Main</object>
@@ -96,7 +101,6 @@
     <object>objects\Draw_Hp_Health</object>
     <object>objects\draw</object>
     <objects name="Menu">
-      <object>objects\obj</object>
       <object>objects\obj_start_button</object>
       <object>objects\obj_exit_button</object>
       <object>objects\obj_about_button</object>
@@ -115,12 +119,14 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_menu</room>
-    <room>rooms\rm_game</room>
-    <room>rooms\rm_about</room>
     <room>rooms\rm_level_selector</room>
+    <room>rooms\rm_game</room>
+    <room>rooms\rm_epic</room>
+    <room>rooms\rm_medium</room>
+    <room>rooms\rm_about</room>
     <room>rooms\rm_how_to</room>
     <room>rooms\rm_easy_map</room>
-    <room>rooms\room6</room>
+    <room>rooms\EXTRA</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
